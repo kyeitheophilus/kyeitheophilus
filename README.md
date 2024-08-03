@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Theophilus Kyei</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with a proven track record of building and maintaining scalable web applications. I'm versatile and open minded to new languages and technologies leveraging my expertise in backend and frontend.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
